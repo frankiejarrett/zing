@@ -20,6 +20,8 @@ This plugin is perfect for:
 * Freaking out your boss
 * Increasing hacker bounce rate
 
+If you are a party pooper, you can press the `z` key to make things normal again.
+
 **Development of this plugin is done [on GitHub](https://github.com/fjarrett/zing). Pull requests welcome. Please see [issues reported](https://github.com/fjarrett/zing/issues) there before going to the plugin forum.**
 
 == Screenshots ==
