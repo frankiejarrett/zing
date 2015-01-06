@@ -36,7 +36,7 @@ function zing_admin_head() {
 	jQuery( document ).ready( function( $ ) {
 		$( document ).keypress( function( e ) {
 			if ( 122 === e.which ) {
-				$( 'body' ).removeClass( 'zing' );
+				$( 'body' ).toggleClass( 'zing' );
 			}
 		});
 	});
