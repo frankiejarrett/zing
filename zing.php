@@ -9,12 +9,31 @@
  * Text Domain: zing
  */
 
+/**
+ * Add a custom class to the body element
+ *
+ * @filter admin_body_class
+ *
+ * @return string
+ */
+function zing_admin_body_class( $classes ) {
+	$classes .= ' zing ';
+
+	return $classes;
+}
+add_filter( 'admin_body_class', 'zing_admin_body_class' );
+
+/**
+ * Modify the DOM on all admin screens
+ *
+ * @filter admin_head
+ *
+ * @return void
+ */
 function zing_admin_head() {
 	?>
 	<script>
 	jQuery( document ).ready( function( $ ) {
-		$( 'body' ).addClass( 'zing' );
-
 		$( document ).keypress( function( e ) {
 			if ( 122 === e.which ) {
 				$( 'body' ).removeClass( 'zing' );
