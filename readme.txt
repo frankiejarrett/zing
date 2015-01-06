@@ -15,7 +15,7 @@ Turn your admin panel upside down. Literally.
 
 This plugin is perfect for:
 
-* Playing an [April Fools'](http://en.wikipedia.org/wiki/April_Fools%27_Day) joke
+* Playing an [April Fools' Day](http://en.wikipedia.org/wiki/April_Fools%27_Day) joke
 * Pissing off your colleagues
 * Freaking out your boss
 * Increasing hacker bounce rate
