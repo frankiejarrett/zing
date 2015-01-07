@@ -28,8 +28,8 @@ Press the `z` key to toggle _Zing!_ on and off.
 
 1. Dashboard
 2. Posts list
-2. Widgets
-3. You get the idea
+3. Widgets
+4. You get the idea
 
 == Changelog ==
 

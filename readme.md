@@ -30,6 +30,21 @@ Press the `z` key to toggle _Zing!_ on and off.
 
 ## Screenshots ##
 
+### Dashboard
+
+![Dashboard](assets/screenshot-1.png)
+
+### Posts list
+
+![Posts list](assets/screenshot-2.png)
+
+### Widgets
+
+![Widgets](assets/screenshot-3.png)
+
+### You get the idea
+
+![You get the idea](assets/screenshot-4.png)
 
 ## Changelog ##
 
