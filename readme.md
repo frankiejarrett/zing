@@ -48,7 +48,7 @@ Press the `z` key to toggle _Zing!_ on and off.
 
 ## Changelog ##
 
-### 0.1.0 - January 7, 2015 ###
+### 0.1.0 - January 8, 2015 ###
 * Initial release
 
 Props [fjarrett](https://profiles.wordpress.org/fjarrett/)
