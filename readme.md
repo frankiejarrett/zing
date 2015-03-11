@@ -4,8 +4,8 @@
 ![Banner](assets/banner-1544x500.png)
 Turn your admin panel upside down. Literally.
 
-**Contributors:** [fjarrett](http://profiles.wordpress.org/fjarrett)  
-**Tags:** [admin](http://wordpress.org/plugins/tags/admin)  
+**Contributors:** [fjarrett](https://profiles.wordpress.org/fjarrett)  
+**Tags:** [admin](https://wordpress.org/plugins/tags/admin)  
 **Requires at least:** 2.3  
 **Tested up to:** 4.1  
 **Stable tag:** trunk (master)  
